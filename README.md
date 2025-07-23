@@ -23,12 +23,7 @@ Set up environment variables
 Create a .env file in the root:
 
 env
-Copy
-Edit
 VITE_GEMINI_API_KEY=your_api_key_here
 
 Start the development server
-bash
-Copy
-Edit
 npm run dev
