@@ -13,7 +13,7 @@ ChatBox-AI is a modern AI-powered chatbot interface built with React, Tailwind C
 
 ## 🚀 Live Demo
 👉 [Click here to try ChatBox-AI](https://chatbox-ai-eosin.vercel.app/)
-
+    [Github]( https://github.com/arpiztech/CHATBOX-AI/)
 
 
 ---
@@ -45,36 +45,48 @@ ChatBox-AI is a modern AI-powered chatbot interface built with React, Tailwind C
    git clone https://github.com/arpiztech/CHATBOX-AI.git
    cd CHATBOX-AI
 2. Install dependencies
+   
 npm install
 
-3. Set up API key
+4. Set up API key
 
 Create a .env file in the root folder.
 Add:
 VITE_GEMINI_API_KEY=your_google_gemini_api_key
 
+
 4. Run the development server
+   
 npm run dev
 
 
 🧠 Gemini API Setup
 To get your Gemini API key:
+
 Go to Google AI Studio
+
 Create a new project and enable the Generative Language API
+
 Get your API key from Google Cloud Console
 
-📸 Screenshots
+📸 Screenshots (image1.png/) (image2.png/)
 
 📝 License
 This project is licensed under the MIT License.
 
 🙋‍♀️ Author
 ArpizTech
+
 GitHub: @arpiztech
+
 Project: ChatBox-AI
 
 ---
+ Push changes:
 
+git add README.md public/assets/
+git commit -m "Added README with banner and screenshots"
+git push
 
 
 
