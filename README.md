@@ -2,10 +2,19 @@
 
 ChatBox-AI is a modern AI-powered chatbot interface built with React, Tailwind CSS, and Google's Gemini API. It allows users to interact with an AI assistant in a sleek, scrollable chat UI , and  It provides real-time responses and a smooth user experience with animations and responsive design.
 
+
+<p align="center">
+  <img src="image1.png" alt="Chat UI Screenshot" width="80%" />
+   <img src="image2.png" alt="Chat UI Screenshot" width="80%" />
+ 
+</p>
+
 ---
 
 ## 🚀 Live Demo
 👉 [Click here to try ChatBox-AI](https://chatbox-ai-eosin.vercel.app/)
+
+
 
 ---
 ## 📂 Project Features
