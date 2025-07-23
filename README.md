@@ -1,29 +1,72 @@
 # Chatbox-AI 🤖
 
-Chatbox-AI is a modern conversational AI chatbot interface built using **React**, **Tailwind CSS**, and integrated with **Google Generative AI API** (Gemini). It provides real-time responses and a smooth user experience with animations and responsive design.
+ChatBox-AI is a modern AI-powered chatbot interface built with React, Tailwind CSS, and Google's Gemini API. It allows users to interact with an AI assistant in a sleek, scrollable chat UI , and  It provides real-time responses and a smooth user experience with animations and responsive design.
 
-## ✨ Features
+---
 
-- 🧠 AI-Powered Chat (Google Gemini API)
-- 💬 Stylish Chat UI
-- 🌓 Dark & Light Theme Toggle
-- 🎨 Tailwind CSS for styling
-- 📱 Responsive design (Mobile + Desktop)
-- 🕓 Timestamped messages
-- 👤 User & Bot avatars
+## 🚀 Live Demo
+👉 [Click here to try ChatBox-AI](https://chatbox-ai-eosin.vercel.app/)
 
-## 🚀 Getting Started
+---
+## 📂 Project Features
 
-### 1. Clone the repository
+- ✨ Beautiful chat interface using Tailwind CSS
+- 💬 Dynamic typing animation and response display
+- 🧠 Uses Gemini AI API for generating intelligent replies
+- 🌓 Light and dark mode support
+- 📱 Responsive for mobile and desktop
+- 🔒 Environment variables for secure API key usage
+- - 💬 Stylish Chat UI
+ - - 👤 User & Bot avatars
 
-```bash
-git clone https://github.com/arpiztech/CHATBOX-AI.git
-cd CHATBOX-AI
-Set up environment variables
-Create a .env file in the root:
+---
 
-env
-VITE_GEMINI_API_KEY=your_api_key_here
+## 🛠️ Tech Stack
 
-Start the development server
+- **Frontend**: React, Tailwind CSS, Axios
+- **Backend/API**: Google Gemini Generative Language API
+- **Deployment**: Vercel
+- **Icons**: React Icons
+
+---
+## ⚙️ Getting Started (For Developers)
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/arpiztech/CHATBOX-AI.git
+   cd CHATBOX-AI
+2. Install dependencies
+npm install
+
+3. Set up API key
+
+Create a .env file in the root folder.
+Add:
+VITE_GEMINI_API_KEY=your_google_gemini_api_key
+
+4. Run the development server
 npm run dev
+
+
+🧠 Gemini API Setup
+To get your Gemini API key:
+Go to Google AI Studio
+Create a new project and enable the Generative Language API
+Get your API key from Google Cloud Console
+
+📸 Screenshots
+
+📝 License
+This project is licensed under the MIT License.
+
+🙋‍♀️ Author
+ArpizTech
+GitHub: @arpiztech
+Project: ChatBox-AI
+
+---
+
+
+
+
+
